@@ -1,0 +1,29 @@
+_repo: Better-Than-Men_53423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawkins, Rush C. (Rush Christopher)
+    birthdate: 1831
+    deathdate: 1920
+    gutenberg_agent_id: '47368'
+    url: http://www.gutenberg.org/2009/agents/47368
+    wikipedia: https://en.wikipedia.org/wiki/Rush_Hawkins
+description: ''
+gutenberg_issued: '2016-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53423'
+  lccn: 07002189
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Explanatory -- The excursion -- Tim, the dissipated -- Carlo, the
+  soldier -- Jeff, the inquisitive -- Toby, the wise -- Two dogs -- Two innocents
+  abroad -- About Columbus, by an old showman -- In relation to mysteries -- Mysteries.
+title: Better Than Men
+url: http://www.gutenberg.org/ebooks/53423
